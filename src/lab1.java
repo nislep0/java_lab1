@@ -1,4 +1,4 @@
-public class lab1 {
+public class Lab1 {
 
     static void main() {
         try {
